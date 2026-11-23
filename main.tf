@@ -9,3 +9,4 @@ resource "terraform_data" "project6" {
 output "project_name" {
   value = "Project 6 - Version Control Infrastructure"
 }
+# Project 6 - Version Control Infrastructure
